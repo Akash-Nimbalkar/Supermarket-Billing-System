@@ -16,4 +16,4 @@ The Supermarket Management System, built in C++ using Object-Oriented Programmin
 ## Run Command
 
 ```bash
-if ($?) { g++ main.cpp -o main } ; if ($?) { .\main }
+if ($?) { g++ main.cpp -o main } ; if ($?) { .\main } ```
