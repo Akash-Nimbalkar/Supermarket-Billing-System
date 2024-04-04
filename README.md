@@ -5,7 +5,7 @@ The Supermarket Management System, built in C++ using Object-Oriented Programmin
 ## Features
 
 - **Product Management:** Add and buy products from the supermarket inventory.
-- **Billing System:** Generate itemized bills for customers.
+- **Billing System:** Generate bills for customers.
 
 ## Installation
 
