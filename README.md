@@ -1,17 +1,17 @@
-# Supermarket Management System
+# Supermarket Billing System
 
-This Supermarket Management System is a C++ project developed using Object-Oriented Programming (OOPs) concepts. The system provides an efficient and user-friendly solution for managing various supermarket operations, including inventory management, billing, and customer information.
+The Supermarket Management System, built in C++ using Object-Oriented Programming (OOP) principles, provides a simple and user-friendly solution for handling various tasks in a supermarket, like keeping track of inventory, creating bills etc.
 
 ## Features
 
-- **Product Management:** Add, update, and delete products from the supermarket inventory.
-- **Billing System:** Generate itemized bills for customers with detailed pricing and discounts.
+- **Product Management:** Add and buy products from the supermarket inventory.
+- **Billing System:** Generate itemized bills for customers.
 
 ## Installation
 
-1. Clone this repository to your local machine.
+1. Clone this repo to your local machine.
 2. Ensure you have a C++ compiler installed on your system.
-3. Compile and run the `main.cpp` file to start the Supermarket Management System.
+3. Compile and run the `main.cpp` file to launch the Supermarket Billing System.
 
 ## Run Command
 
